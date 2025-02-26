@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.environmentChangesRelaunch": false,
+    "scm.alwaysShowRepositories": true,
+    "gitlens.views.repositories.showStashes": true,
+    "gitlens.views.repositories.showIncomingActivity": true
+}
